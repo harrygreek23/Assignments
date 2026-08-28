@@ -1,20 +1,20 @@
-//Section 1 - Math Object
-//1. Random Number
+// Section 1 - Math Object
+// 1. Random Number
 // let Rnumber=Math.random();
 // console.log("Random Number:", Rnumber);
 
 
-//2. Random Whole Number
+// 2. Random Whole Number
 // let min =1;
 // let max=10;
 // let result = Math.floor(Math.random()*(max-min + 1)) + min;
 // console.log(result)
 
-//3. Round a Number
-    // let roundNum=Math.round(4.6);
-    // console.log(roundNum);
+// 3. Round a Number
+//     let roundNum=Math.round(4.6);
+//     console.log(roundNum);
 
-//4. Floor and Ceil
+// 4. Floor and Ceil
 //    let cnum=Math.ceil(7.3);
 //    let fnum=Math.floor(7.3);
 //     console.log(cnum);
@@ -65,18 +65,18 @@
 // let email = "user@example.com";
 // console.log(email.includes("@"));
 
-//12. Check File Extension
+// 12. Check File Extension
 // str =" Hello JavaScript ";
 // let result= str.trim();
 // console.log('"' + result + '"');
 
-//14. Replace a Greeting
+// 14. Replace a Greeting
 // let greet = "Hello User";
 // let result = greet.replace("User","Rahul");
 // console.log(result);
 
-//Section 3 - Number Built-in Methods
-//15. Format a Decimal Number
+// Section 3 - Number Built-in Methods
+// 15. Format a Decimal Number
 // let num =12.56789;
 // let result= num.toFixed(2)
 // console.log(result);
@@ -96,16 +96,16 @@
 
 // console.log(date.toLocaleTimeString());
 
-//18. Store a Specific Date
+// 18. Store a Specific Date
 // let date =new Date("2026-01-01");
 // console.log(date);
 
 
-//19. Current Timestamp
+// 19. Current Timestamp
 // let date =new Date();
 // console.log(date.toLocaleTimeString());
 
-//20. Simple Date Difference
+// 20. Simple Date Difference
 // let date1 =new Date("2026-01-01");
 // let date2 =new Date("2027-01-01");
 // let difference = date2 - date1;
